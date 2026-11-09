@@ -14,14 +14,15 @@ Most of my work is private company code, so I write each system up in public ins
 
 ---
 
-## ⭐ Start here: read these two
+## ⭐ Start here: read these three
 
 | | What it is | Why it's worth your five minutes |
 |---|---|---|
 | **[Revenue OS →](https://github.com/ARAYN7011/revenue-os)** | A daily work list for sales reps. Each morning one screen says what to do today, in order, and why. | The product bet, a layered architecture with an enforced boundary ratchet, and a data dictionary where every fact carries the query that measured it. |
 | **[Felix Sells →](https://github.com/ARAYN7011/felix-sells)** | An AI teammate that runs signal-driven outbound over email and SMS. The outreach *is* the demo. | The LLM picks intent; deterministic code gates every send. Frozen evals, shadow-to-enforce rollout, and a privacy wall in the memory. |
+| **[GEO Audit Playbook →](https://github.com/ARAYN7011/geo-audit-playbook)** | How to measure whether AI assistants recommend a business, from my closed side business to agent skills tuned against real websites. | A real failure (0 clients) told straight, a scoring rubric you can read, and the anti-patterns behind each iteration. |
 
-Each has a demo video at the top and a founder section and an engineer section underneath.
+Each has a founder section and an engineer section; the first two open with a demo video.
 
 ---
 

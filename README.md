@@ -29,7 +29,7 @@ Each has a demo video at the top and a founder section and an engineer section u
 
 | | |
 |---|---|
-| 🎙️ **Autonomous voice agent** | Cold-calls real estate hiring managers and books its own meetings. Do-not-call, call windows and disclosure rules are **gates in code**, not prompt instructions. |
+| 🎙️ **Autonomous voice agent** | Built to cold-call real estate hiring managers over Twilio + ElevenLabs and book its own meetings. Do-not-call, call windows and disclosure rules are **gates in code**, not prompt instructions. The same gate design now guards the email and SMS outbound in [Felix Sells](https://github.com/ARAYN7011/felix-sells). |
 | 🔎 **A GTM signal no vendor sells** | Infers real estate **team size** from a name and a company. **117 tests**, **1,534 req/s** at concurrency 100. A later agentic version enriched **1,755 records in 86 minutes**: 1,395 high-confidence, 323 medium, 32 with no answer, **zero pipeline failures**. |
 | ✍️ **Multi-channel content platform** | One campaign brief becomes blog, email and ad content, routes through human review, and publishes into the systems of record. |
 | 🏆 **30-day sales competition platform** | Ran a **real cohort**: automated bracket tournament, about **3,969 scored entries**, and an AI cold-call practice coach over realtime voice. |
